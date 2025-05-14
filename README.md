@@ -1,4 +1,4 @@
-#Walmart Sales Analysis
+# Walmart Sales Analysis
 
 An end-to-end data analysis project using Python and SQL to extract actionable business insights from Walmart sales data.
 
