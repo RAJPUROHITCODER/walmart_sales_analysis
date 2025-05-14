@@ -2,18 +2,17 @@
 
 An end-to-end data analysis project using Python and SQL to extract actionable business insights from Walmart sales data.
 
-##Project Overview
-
+## Project Overview
 This project demonstrates the complete data analysis workflow, from data collection to business reporting. The goal is to analyze Walmart’s sales data to uncover patterns in customer behavior, category performance, and revenue trends.
 
-##Tools & Technologies
+## Tools & Technologies
 Python (Pandas, NumPy, SQLAlchemy)
 MySQL
 Jupyter Notebook
 Kaggle
 VS Code
 
-##Key Steps
+## Key Steps
 1. Data Collection
 Downloaded Walmart sales dataset from Kaggle 
 2. Data Cleaning & Transformation
@@ -29,7 +28,7 @@ Executed advanced queries to extract trends, profitability metrics, and customer
 6. Documentation
 Explained each step and result in Jupyter Notebook for transparency and reproducibility
 
-##Insights Delivered
+## Insights Delivered
 Branches with the highest revenue
 Best-selling product categories
 Preferred payment methods
